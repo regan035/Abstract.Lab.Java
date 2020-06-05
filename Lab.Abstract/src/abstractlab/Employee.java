@@ -25,7 +25,7 @@ public class Employee extends Person implements Bill {
 
 	@Override
 	public double gas() {
-		// TODO Auto-generated method stub
+		
 		return 0;
 	}
 
